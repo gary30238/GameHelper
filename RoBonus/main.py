@@ -16,7 +16,7 @@ class Operation:
     def __init__(self, dm, hwnd, event):
         self.dm = dm
         self.hwnd = hwnd
-        print(self.dm.Reg('1347528682239add254149076f357bd15a5b80f8b56', 'fmvbhs120'))
+        print(self.dm.Reg('按鍵精靈註冊碼', '按鍵精靈附加碼'))
         print(self.dm.Ver())
         self.bind()
         self.reset_z()

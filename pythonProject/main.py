@@ -3,10 +3,10 @@ import pymysql
 
 # 資料庫設定
 db_settings = {
-    "host": "127.0.0.1",
-    "port": 3306,
-    "user": "root",
-    "password": "vu,41i6u04",
+    "host": "",
+    "port": ,
+    "user": "",
+    "password": "",
     "db": "ro_stock",
     "charset": "utf8"
 }
